@@ -1,0 +1,11 @@
+venv/
+.vscode
+.cursor
+.claude
+.smartazz
+
+*tmp*.*
+*tmp*.
+.*tmp*
+*.*tmp*
+*tmp*
